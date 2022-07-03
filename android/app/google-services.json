@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "205015409703",
+    "firebase_url": "https://carbon-hulling-276811.firebaseio.com",
+    "project_id": "carbon-hulling-276811",
+    "storage_bucket": "carbon-hulling-276811.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205015409703:android:6f7d355dbbe3de087eda02",
+        "android_client_info": {
+          "package_name": "com.example.graduation_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205015409703-h8a31qrl58dr4548r69mrvl7j80pbnep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvCNHHz4O-uAp35pFsCcXxn8HZpJn3RQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205015409703-h8a31qrl58dr4548r69mrvl7j80pbnep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
