@@ -1,4 +1,4 @@
-#Eaqari
+# Eaqari
 
 ## Cross-platform Game Development Framework
 **[libGDX](https://libgdx.com) is a cross-platform Java game development framework based on OpenGL (ES) that works on Windows, Linux, macOS, Android, your browser and iOS.** It provides a well-tried and robust environment for rapid prototyping and fast iterations. libGDX does not force a specific design or coding style on you. Rather, it gives you the freedom to create a game the way you like it.
